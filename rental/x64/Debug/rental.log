@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\catal\OneDrive\Desktop\facultate\individual studying\rental\rental\Source.cpp(175,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\catal\OneDrive\Desktop\facultate\individual studying\rental\rental\Source.cpp(176,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\catal\OneDrive\Desktop\facultate\individual studying\rental\rental\Source.cpp(177,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\catal\OneDrive\Desktop\facultate\individual studying\rental\rental\Source.cpp(178,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\catal\OneDrive\Desktop\facultate\individual studying\rental\rental\Source.cpp(179,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\catal\OneDrive\Desktop\facultate\individual studying\rental\rental\Source.cpp(180,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\catal\OneDrive\Desktop\facultate\individual studying\rental\rental\Source.cpp(181,95): warning C4305: 'argument': truncation from 'double' to 'float'
+  rental.vcxproj -> C:\Users\catal\OneDrive\Desktop\facultate\individual studying\rental\x64\Debug\rental.exe
